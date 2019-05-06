@@ -1,0 +1,118 @@
+﻿@{
+    ViewBag.Title = "User Type Information";
+}
+<div class="bcause-style" ng-controller="UserTypeController">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h4>User Type Information</h4>
+        </div>
+        <div class="panel-body">
+            <form name="userTypeForm" class="form-horizontal" novalidate>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <div class="form-group">
+                                <div class="col-md-4 control-label">
+                                    <label for="txtUserTypeId">User Type Id</label>
+                                </div>
+                                <div class="col-md-8 input-group">
+                                    <span class="input-group-addon"><i class="fa fa-sort-numeric-asc"></i></span>
+                                    <input type="text" class="form-control" id="txtUserTypeId" name="Id" placeholder="User Type Id" disabled
+                                           ng-model="userTypeVM.Id">
+                                </div>
+                            </div>
+                            <div class="form-group form-group2">
+                                <div class="col-md-4 control-label control-label2">
+                                    <label for="txtUserTypeName">User Type Name</label>
+                                </div>
+                                <div class="col-md-8 input-group">
+                                    <span class="input-group-addon"><i class="fa fa-bars"></i></span>
+                                    <input type="text" class="form-control" id="txtUserTypeName" name="Name" placeholder="User Type Name"
+                                           ng-model="userTypeVM.Name" ng-minlength="1" ng-maxlength="100" ng-class="{submitted: isSubmitted}" required>
+                                    <div ng-messages="userTypeForm.Name.$error" class="form-warning" role="alert" ng-show="isSubmitted">
+                                        <div ng-message="required">Please enter the information here.</div>
+                                        <div ng-message="minlength">Provided information is too short.</div>
+                                        <div ng-message="maxlength">Provided information is too long.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-4 control-label">
+                                    <label for="txtDescription">Description</label>
+                                </div>
+                                <div class="col-md-8 input-group">
+                                    <span class="input-group-addon"><i class="fa fa-sitemap"></i></span>
+                                    <input type="text" class="form-control" id="txtDescription" name="Description" placeholder="Description"
+                                           ng-model="userTypeVM.Description" ng-minlength="1" ng-maxlength="500" ng-class="{submitted: isSubmitted}" required>
+                                    <div ng-messages="userTypeForm.Description.$error" class="form-warning" role="alert" ng-show="isSubmitted">
+                                        <div ng-message="required">Please enter the information here.</div>
+                                        <div ng-message="minlength">Provided information is too short.</div>
+                                        <div ng-message="maxlength">Provided information is too long.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-4 control-label"></div>
+                                <div class="col-md-8 input-group">
+                                    <div class="checkbox" style="margin-left: 20px;">
+                                        <input type="checkbox" id="chkIsActive" ng-model="userTypeVM.IsActive"> Is Active
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-4 control-label"></div>
+                                <div class="col-md-8 input-group">
+                                    <button type="submit" class="btn btn-primary" ng-disabled="isPosted" ng-click="saveUserType(userTypeForm)">Save</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <div class="row">
+                <div class="col-sm-4">
+                    <h4>User Type List</h4>
+                </div>
+                <div class="col-sm-8">
+                    <span class="creat-user-control">
+                        @*<a ng-href="/Account/CreateUser/?agentCode={{filterValue}}">Create User</a>*@
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+            <table class="table table-striped table-bordered" ng-show="userTypeList.length > 0">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>User Type Name</th>
+                        <th>Description</th>
+                        <th>Active(Yes/No)</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="userType in userTypeList ">
+                        <td>{{userType.Id}}</td>
+                        <td>{{userType.Name}}</td>
+                        <td>{{userType.Description}}</td>
+                        <td>{{userType.IsActive}}</td>
+                        <td><a ng-click="showDetails(userType)">Details</a></td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="message-warning" ng-hide="userTypeList.length > 0">
+                No user type found.
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts
+{
+    <script src="~/CustomScripts/UserTypeController.js"></script>
+}

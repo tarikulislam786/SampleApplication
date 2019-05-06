@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html ng-app="HiWork">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/bootstrapCss")
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-default bcause-green" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                @*<img src="~/Content/img/ud-logo-web.png" />*@
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="/Home/Index" data-toggle="dropdown" class="dropdown-toggle">Home</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle">Administration<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("User Type Information", "UserType", "Admin", new { area = "" }, null)</li>
+                            <li class="divider"></li>
+                            <li>@Html.ActionLink("Role Information", "Role", "Admin")</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="header_foot">
+            <div class="row">
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <footer>
+            <div class="footer_top">
+                <div class="row">
+                </div>
+            </div>
+            <div class="container">
+                <div class="row footer-text">
+                    <span>Email: support@b-cause.com </span>
+                    <p class="copyright">© 2017- 2018 B-Cause Incorporation</p>
+                    <hr class="footer_hr" />
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/AngularJS")
+    @*<script src="~/Scripts/bootstrap-select.min.js"></script>*@
+    <script src="~/CustomScripts/main.js"></script>
+    <script src="~/CustomScripts/App.js"></script>
+    <script src="~/CustomScripts/Services.js"></script>
+    <script src="~/CustomScripts/Utils.js"></script>
+    <script src="~/CustomScripts/Directive.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/js/bootstrap-select.min.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

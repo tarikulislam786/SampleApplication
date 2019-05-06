@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelsStoreContainer" CdmEntityContainer="HiWorkDB">
+    <EntitySetMapping Name="AccessLogs">
+      <EntityTypeMapping TypeName="Models.AccessLog">
+        <MappingFragment StoreEntitySet="AccessLog">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+          <ScalarProperty Name="LoginDeviceName" ColumnName="LoginDeviceName" />
+          <ScalarProperty Name="LoginIP" ColumnName="LoginIP" />
+          <ScalarProperty Name="LoginTime" ColumnName="LoginTime" />
+          <ScalarProperty Name="LogoutTime" ColumnName="LogoutTime" />
+          <ScalarProperty Name="PasswordAttemptCount" ColumnName="PasswordAttemptCount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdditionalOperationPermissions">
+      <EntityTypeMapping TypeName="Models.AdditionalOperationPermission">
+        <MappingFragment StoreEntitySet="AdditionalOperationPermission">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ScreenOperationId" ColumnName="ScreenOperationId" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AdditionalScreenPermissions">
+      <EntityTypeMapping TypeName="Models.AdditionalScreenPermission">
+        <MappingFragment StoreEntitySet="AdditionalScreenPermission">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ScreenId" ColumnName="ScreenId" />
+          <ScalarProperty Name="AccessRight" ColumnName="AccessRight" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Applications">
+      <EntityTypeMapping TypeName="Models.Application">
+        <MappingFragment StoreEntitySet="Application">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ApplicationPolicies">
+      <EntityTypeMapping TypeName="Models.ApplicationPolicy">
+        <MappingFragment StoreEntitySet="ApplicationPolicy">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Menus">
+      <EntityTypeMapping TypeName="Models.Menu">
+        <MappingFragment StoreEntitySet="Menu">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="MenuOrder" ColumnName="MenuOrder" />
+          <ScalarProperty Name="MenuIcon" ColumnName="MenuIcon" />
+          <ScalarProperty Name="ParentMenuId" ColumnName="ParentMenuId" />
+          <ScalarProperty Name="ScreenId" ColumnName="ScreenId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Modules">
+      <EntityTypeMapping TypeName="Models.Module">
+        <MappingFragment StoreEntitySet="Module">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="People">
+      <EntityTypeMapping TypeName="Models.Person">
+        <MappingFragment StoreEntitySet="Person">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="MobileNumber" ColumnName="MobileNumber" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FatherName" ColumnName="FatherName" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="BirthPlace" ColumnName="BirthPlace" />
+          <ScalarProperty Name="Nationality" ColumnName="Nationality" />
+          <ScalarProperty Name="TIN" ColumnName="TIN" />
+          <ScalarProperty Name="SourceOfIncome" ColumnName="SourceOfIncome" />
+          <ScalarProperty Name="Occupation" ColumnName="Occupation" />
+          <ScalarProperty Name="Company" ColumnName="Company" />
+          <ScalarProperty Name="Designation" ColumnName="Designation" />
+          <ScalarProperty Name="NationalId" ColumnName="NationalId" />
+          <ScalarProperty Name="PassportNumber" ColumnName="PassportNumber" />
+          <ScalarProperty Name="DrivingLicenseNo" ColumnName="DrivingLicenseNo" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="District" ColumnName="District" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PhotoURL" ColumnName="PhotoURL" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="SetFrom" ColumnName="SetFrom" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="Models.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoleAudits">
+      <EntityTypeMapping TypeName="Models.RoleAudit">
+        <MappingFragment StoreEntitySet="RoleAudit">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="ScreenOperationId" ColumnName="ScreenOperationId" />
+          <ScalarProperty Name="HaveAccess" ColumnName="HaveAccess" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="DataStatusFlag" ColumnName="DataStatusFlag" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoleWiseOperationPermissions">
+      <EntityTypeMapping TypeName="Models.RoleWiseOperationPermission">
+        <MappingFragment StoreEntitySet="RoleWiseOperationPermission">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="ScreenOperationId" ColumnName="ScreenOperationId" />
+          <ScalarProperty Name="HaveAccess" ColumnName="HaveAccess" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoleWiseScreenPermissions">
+      <EntityTypeMapping TypeName="Models.RoleWiseScreenPermission">
+        <MappingFragment StoreEntitySet="RoleWiseScreenPermission">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="ScreenId" ColumnName="ScreenId" />
+          <ScalarProperty Name="AccessRight" ColumnName="AccessRight" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Screens">
+      <EntityTypeMapping TypeName="Models.Screen">
+        <MappingFragment StoreEntitySet="Screen">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ModuleId" ColumnName="ModuleId" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="URL" ColumnName="URL" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ScreenOperations">
+      <EntityTypeMapping TypeName="Models.ScreenOperation">
+        <MappingFragment StoreEntitySet="ScreenOperation">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ScreenId" ColumnName="ScreenId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="Models.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserInformations">
+      <EntityTypeMapping TypeName="Models.UserInformation">
+        <MappingFragment StoreEntitySet="UserInformation">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserTypeId" ColumnName="UserTypeId" />
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="PasswordAgeLimit" ColumnName="PasswordAgeLimit" />
+          <ScalarProperty Name="IsPasswordChanged" ColumnName="IsPasswordChanged" />
+          <ScalarProperty Name="IsLocked" ColumnName="IsLocked" />
+          <ScalarProperty Name="LastPasswordChangedDate" ColumnName="LastPasswordChangedDate" />
+          <ScalarProperty Name="LastLockedDate" ColumnName="LastLockedDate" />
+          <ScalarProperty Name="WrongPasswordTryLimit" ColumnName="WrongPasswordTryLimit" />
+          <ScalarProperty Name="IsSuperAdmin" ColumnName="IsSuperAdmin" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserInRoles">
+      <EntityTypeMapping TypeName="Models.UserInRole">
+        <MappingFragment StoreEntitySet="UserInRole">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserTypes">
+      <EntityTypeMapping TypeName="Models.UserType">
+        <MappingFragment StoreEntitySet="UserType">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="SetOn" ColumnName="SetOn" />
+          <ScalarProperty Name="SetBy" ColumnName="SetBy" />
+          <ScalarProperty Name="Note" ColumnName="Note" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IdentityInformations">
+      <EntityTypeMapping TypeName="Models.IdentityInformation">
+        <MappingFragment StoreEntitySet="IdentityInformation">
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="ApplicationIdLength" ColumnName="ApplicationIdLength" />
+          <ScalarProperty Name="ModuleId" ColumnName="ModuleId" />
+          <ScalarProperty Name="ModuleIdLength" ColumnName="ModuleIdLength" />
+          <ScalarProperty Name="ScreenId" ColumnName="ScreenId" />
+          <ScalarProperty Name="ScreenIdLength" ColumnName="ScreenIdLength" />
+          <ScalarProperty Name="MenuId" ColumnName="MenuId" />
+          <ScalarProperty Name="MenuIdLength" ColumnName="MenuIdLength" />
+          <ScalarProperty Name="UserTypeId" ColumnName="UserTypeId" />
+          <ScalarProperty Name="UserTypeIdLength" ColumnName="UserTypeIdLength" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleIdLength" ColumnName="RoleIdLength" />
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+          <ScalarProperty Name="PersonIdLength" ColumnName="PersonIdLength" />
+          <ScalarProperty Name="ScreenOperationId" ColumnName="ScreenOperationId" />
+          <ScalarProperty Name="ScreenOperationIdLength" ColumnName="ScreenOperationIdLength" />
+          <ScalarProperty Name="ApplicationPolicyId" ColumnName="ApplicationPolicyId" />
+          <ScalarProperty Name="ApplicationPolicyIdLength" ColumnName="ApplicationPolicyIdLength" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="Models.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="Models.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="Models.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="Models.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Models.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="Models.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Models.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="Models.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="Models.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="USP_GetAdditionalOperationPermissionList" FunctionName="Models.Store.USP_GetAdditionalOperationPermissionList" />
+    <FunctionImportMapping FunctionImportName="USP_GetAdditionalScreenPermissionList" FunctionName="Models.Store.USP_GetAdditionalScreenPermissionList" />
+    <FunctionImportMapping FunctionImportName="USP_GetRoleWiseOperationPermissionList" FunctionName="Models.Store.USP_GetRoleWiseOperationPermissionList" />
+    <FunctionImportMapping FunctionImportName="USP_GetRoleWiseScreenPermissionList" FunctionName="Models.Store.USP_GetRoleWiseScreenPermissionList" />
+    <FunctionImportMapping FunctionImportName="USP_GetScreenList" FunctionName="Models.Store.USP_GetScreenList" />
+    <FunctionImportMapping FunctionImportName="USP_GetScreenOperationList" FunctionName="Models.Store.USP_GetScreenOperationList" />
+    <FunctionImportMapping FunctionImportName="USP_GetUserDetails" FunctionName="Models.Store.USP_GetUserDetails" />
+    <FunctionImportMapping FunctionImportName="USP_GetUsers" FunctionName="Models.Store.USP_GetUsers" />
+    <FunctionImportMapping FunctionImportName="USP_GetNextId" FunctionName="Models.Store.USP_GetNextId">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="Models.USP_GetNextId_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

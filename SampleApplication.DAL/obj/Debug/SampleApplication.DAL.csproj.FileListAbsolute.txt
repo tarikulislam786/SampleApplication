@@ -1,0 +1,133 @@
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\AutoMapper.Net4.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\SampleApplication.DAL.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\SampleApplication.DAL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\SampleApplication.DAL.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\EntityFramework.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\SampleApplication.Utils.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\log4net.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Ninject.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\AutoMapper.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\SampleApplication.Utils.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\SampleApplication.Utils.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\EntityFramework.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\log4net.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\Ninject.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\AutoMapper.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\bin\Debug\AutoMapper.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\obj\Debug\SampleApplication.DAL.csprojAssemblyReference.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\obj\Debug\SampleApplication.DAL.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\obj\Debug\SampleApplication.DAL.csproj.CopyComplete
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\obj\Debug\SampleApplication.DAL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.DAL\obj\Debug\SampleApplication.DAL.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\log4net.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Ninject.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\log4net.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\Ninject.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csprojAssemblyReference.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csproj.CopyComplete
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.pdb
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.dll.config
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.pdb
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Newtonsoft.Json.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\log4net.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Ninject.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.dll
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.pdb
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Newtonsoft.Json.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\log4net.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\Ninject.xml
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.pdb
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.xml
+E:\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.dll
+E:\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.pdb
+E:\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.dll.config
+E:\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csprojAssemblyReference.cache
+E:\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csproj.CoreCompileInputs.cache
+E:\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csproj.CopyComplete
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.dll.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.DAL.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\log4net.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Ninject.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\SampleApplication.Utils.dll.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\log4net.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\Ninject.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\bin\Debug\AutoMapper.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csprojAssemblyReference.cache
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.csproj.CopyComplete
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.DAL\obj\Debug\SampleApplication.DAL.pdb

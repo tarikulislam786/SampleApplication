@@ -1,0 +1,478 @@
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\ApplicationInsights.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\csc.exe
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\vbc.exe
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\VBCSCompiler.exe
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.Web.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.Web.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.Web.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Antlr3.Runtime.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\EntityFramework.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\EntityFramework.SqlServer.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.Web.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.ApplicationInsights.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.Unity.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Newtonsoft.Json.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.BLL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.Utils.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Net.Http.Formatting.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Helpers.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Http.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Http.Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Http.WebHost.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Mvc.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Optimization.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Razor.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.WebPages.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.WebPages.Razor.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Unity.Mvc5.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Unity.WebApi.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\WebGrease.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.DAL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\AutoMapper.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\log4net.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Ninject.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.BLL.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.BLL.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.Utils.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.Utils.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.Web.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.ApplicationInsights.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.Unity.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Newtonsoft.Json.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Net.Http.Formatting.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Helpers.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Http.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Http.WebHost.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Mvc.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Optimization.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Razor.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.WebPages.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.WebPages.Razor.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Antlr3.Runtime.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\EntityFramework.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\EntityFramework.SqlServer.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\System.Web.Http.Owin.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.DAL.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\SampleApplication.DAL.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\AutoMapper.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\AutoMapper.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\log4net.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\bin\Ninject.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\obj\Debug\SampleApplication.Web.csprojAssemblyReference.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\obj\Debug\SampleApplication.Web.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\obj\Debug\SampleApplication.Web.csproj.CopyComplete
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\obj\Debug\SampleApplication.Web.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Web\obj\Debug\SampleApplication.Web.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\ApplicationInsights.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\csc.exe
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\vbc.exe
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\VBCSCompiler.exe
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\AutoMapper.Net4.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Antlr3.Runtime.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\EntityFramework.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\EntityFramework.SqlServer.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Web.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.ApplicationInsights.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Newtonsoft.Json.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Net.Http.Formatting.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Helpers.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Http.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Http.Owin.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Http.WebHost.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Mvc.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Optimization.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Razor.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Razor.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Unity.Mvc5.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Unity.WebApi.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\WebGrease.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\AutoMapper.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\log4net.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Ninject.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Web.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.ApplicationInsights.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Newtonsoft.Json.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Net.Http.Formatting.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Helpers.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Http.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Http.WebHost.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Mvc.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Optimization.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Razor.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Razor.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Antlr3.Runtime.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\EntityFramework.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\EntityFramework.SqlServer.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\System.Web.Http.Owin.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\AutoMapper.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\AutoMapper.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\log4net.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\bin\Ninject.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csprojAssemblyReference.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csproj.CopyComplete
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.pdb
+E:\SampleApplication\SampleApplication.Web\bin\ApplicationInsights.config
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\csc.exe
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\vbc.exe
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\VBCSCompiler.exe
+E:\SampleApplication\SampleApplication.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.dll.config
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.dll
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.pdb
+E:\SampleApplication\SampleApplication.Web\bin\Antlr3.Runtime.dll
+E:\SampleApplication\SampleApplication.Web\bin\EntityFramework.dll
+E:\SampleApplication\SampleApplication.Web\bin\EntityFramework.SqlServer.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Web.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.ApplicationInsights.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\SampleApplication\SampleApplication.Web\bin\Newtonsoft.Json.dll
+E:\SampleApplication\SampleApplication.Web\bin\Owin.dll
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.dll
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Net.Http.Formatting.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Helpers.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Http.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Http.Owin.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Http.WebHost.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Mvc.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Optimization.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Razor.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Deployment.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.dll
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Razor.dll
+E:\SampleApplication\SampleApplication.Web\bin\Unity.Mvc5.dll
+E:\SampleApplication\SampleApplication.Web\bin\Unity.WebApi.dll
+E:\SampleApplication\SampleApplication.Web\bin\WebGrease.dll
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.dll
+E:\SampleApplication\SampleApplication.Web\bin\AutoMapper.dll
+E:\SampleApplication\SampleApplication.Web\bin\log4net.dll
+E:\SampleApplication\SampleApplication.Web\bin\Ninject.dll
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.pdb
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.pdb
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Web.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.ApplicationInsights.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\SampleApplication\SampleApplication.Web\bin\Newtonsoft.Json.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Net.Http.Formatting.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Helpers.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Http.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Http.WebHost.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Mvc.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Optimization.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Razor.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Deployment.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Razor.xml
+E:\SampleApplication\SampleApplication.Web\bin\Antlr3.Runtime.pdb
+E:\SampleApplication\SampleApplication.Web\bin\EntityFramework.xml
+E:\SampleApplication\SampleApplication.Web\bin\EntityFramework.SqlServer.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SampleApplication\SampleApplication.Web\bin\System.Web.Http.Owin.xml
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.pdb
+E:\SampleApplication\SampleApplication.Web\bin\AutoMapper.pdb
+E:\SampleApplication\SampleApplication.Web\bin\AutoMapper.xml
+E:\SampleApplication\SampleApplication.Web\bin\log4net.xml
+E:\SampleApplication\SampleApplication.Web\bin\Ninject.xml
+E:\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.dll
+E:\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.pdb
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.dll.config
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.dll.config
+E:\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.dll.config
+E:\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csprojAssemblyReference.cache
+E:\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csproj.CoreCompileInputs.cache
+E:\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csproj.CopyComplete
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\ApplicationInsights.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\csc.exe
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\vbc.exe
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\VBCSCompiler.exe
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.dll.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.Web.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Antlr3.Runtime.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\EntityFramework.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\EntityFramework.SqlServer.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Web.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.ApplicationInsights.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Newtonsoft.Json.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Owin.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Net.Http.Formatting.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Helpers.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Http.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Http.Owin.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Http.WebHost.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Mvc.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Optimization.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Razor.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Deployment.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Razor.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Unity.Mvc5.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Unity.WebApi.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\WebGrease.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\AutoMapper.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\log4net.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Ninject.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.BLL.dll.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.Utils.dll.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.Web.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.ApplicationInsights.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Newtonsoft.Json.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Net.Http.Formatting.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Helpers.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Http.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Http.WebHost.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Mvc.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Optimization.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Razor.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Deployment.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.WebPages.Razor.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Antlr3.Runtime.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\EntityFramework.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\EntityFramework.SqlServer.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\System.Web.Http.Owin.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\SampleApplication.DAL.dll.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\AutoMapper.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\AutoMapper.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\log4net.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\Ninject.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csprojAssemblyReference.cache
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.csproj.CopyComplete
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\obj\Debug\SampleApplication.Web.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Web\bin\AutoMapper.Net4.dll

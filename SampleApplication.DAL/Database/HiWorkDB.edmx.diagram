@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d9000d15eadf4305897a185605984a33" Name="Diagram1">
+        <EntityTypeShape EntityType="Models.AccessLog" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.AdditionalOperationPermission" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.AdditionalScreenPermission" Width="1.5" PointX="5.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.Application" Width="1.5" PointX="1.5" PointY="35.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.ApplicationPolicy" Width="1.5" PointX="3.75" PointY="33.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.Menu" Width="1.5" PointX="3" PointY="20.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.Module" Width="1.5" PointX="1.5" PointY="31.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.Person" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.Role" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.RoleAudit" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.RoleWiseOperationPermission" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.RoleWiseScreenPermission" Width="1.5" PointX="6" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.Screen" Width="1.5" PointX="0.75" PointY="26" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.ScreenOperation" Width="1.5" PointX="3" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.sysdiagram" Width="1.5" PointX="8.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.UserInformation" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.UserInRole" Width="1.5" PointX="8.25" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.UserType" Width="1.5" PointX="0.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Models.IdentityInformation" Width="1.5" PointX="10.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="Models.FK_AdditionalOperationPermissions_ScreenOperations" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_AdditionalOperationPermissions_UserInformation" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_AdditionalScreenPermissions_UserInformation" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_ApplicationPolicies_Applications" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_Modules_Applications" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_Menu_Menu" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_Menu_Screen" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_Screens_Modules" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_UserInformation_Person" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_RoleWiseOperationPermissions_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_RoleWiseScreenPermissions_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_UserInformation_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_UserInRole_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_RoleWiseOperationPermissions_ScreenOperations" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_RoleWiseScreenPermission_Screen" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_ScreenOperation_Screen" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_UserInformation_UserType" ManuallyRouted="false" />
+        <AssociationConnector Association="Models.FK_UserInRole_UserInformation" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

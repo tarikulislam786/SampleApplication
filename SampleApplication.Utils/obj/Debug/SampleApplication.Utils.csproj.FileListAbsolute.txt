@@ -1,0 +1,61 @@
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\AutoMapper.Net4.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\SampleApplication.Utils.dll.config
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\SampleApplication.Utils.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\SampleApplication.Utils.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\AutoMapper.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\EntityFramework.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\log4net.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\Ninject.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\AutoMapper.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\AutoMapper.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\AutoMapper.Net4.pdb
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\EntityFramework.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\EntityFramework.SqlServer.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\log4net.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\bin\Debug\Ninject.xml
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\obj\Debug\SampleApplication.Utils.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\obj\Debug\SampleApplication.Utils.csproj.CopyComplete
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\obj\Debug\SampleApplication.Utils.dll
+D:\DEVELOPMENT\DEV-M\HiWork_App_DB_04_May_2017\SampleApplication\HiWork.Utils\obj\Debug\SampleApplication.Utils.pdb
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.Net4.dll
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\SampleApplication.Utils.dll.config
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\SampleApplication.Utils.dll
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\SampleApplication.Utils.pdb
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.dll
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.dll
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.SqlServer.dll
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\log4net.dll
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\Ninject.dll
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.pdb
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.xml
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.Net4.pdb
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.xml
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.SqlServer.xml
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\log4net.xml
+E:\SampleApplication\SampleApplication.Utils\bin\Debug\Ninject.xml
+E:\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.dll
+E:\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.pdb
+E:\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.csprojAssemblyReference.cache
+E:\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.csproj.CoreCompileInputs.cache
+E:\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.csproj.CopyComplete
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.Net4.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\SampleApplication.Utils.dll.config
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\SampleApplication.Utils.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\SampleApplication.Utils.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.SqlServer.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\log4net.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\Ninject.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\AutoMapper.Net4.pdb
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\EntityFramework.SqlServer.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\log4net.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\bin\Debug\Ninject.xml
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.csproj.CopyComplete
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.dll
+D:\VISUAL STUDIO PROJECT BACK\SampleApplication\SampleApplication.Utils\obj\Debug\SampleApplication.Utils.pdb
